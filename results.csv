@@ -1,0 +1,2 @@
+Model_Name,Dataset,AUC,Accuracy,Precision_fake,Precision_real,Recall_fake,Recall_real,Input_Gradient,Loss,Precision_.ipynb_checkpoints,Precision_1,Recall_.ipynb_checkpoints,Recall_1
+resnet_blur.pt,perturbed_fgsm/resnet_blur.pt_fgsm/,,0.0,,,,,0.004480000119656324,2.4935801029205322,0.0,0.0,0.0,0.0
